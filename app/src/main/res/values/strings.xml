@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversor de Bits</string>
+    <string name="autor">Leudvan Guedes</string>
+    <string name="ra">1110482313027</string>
+    <string name="qtd_bits">Quantidade de bits:</string>
+    <string name="bits">bits...</string>
+    <string name="unidadeFinal">Converter para:</string>
+    <string name="converter">Realizar Conversão</string>
+    <string name="semValores">Não se esqueça de informar a quantidade de bits</string>
+</resources>
